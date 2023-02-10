@@ -1,1 +1,1 @@
-tumblr.com#@%#//scriptlet('set-cookie-reload', 'logged_in', '1')
+tumblr.com#@%#//scriptlet("set-cookie-reload", "logged_in", "1")
